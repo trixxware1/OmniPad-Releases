@@ -1,16 +1,16 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "channel": "stable",
-  "notes": "OmniPad 1.0.0.",
-  "total_size": 4217856,
+  "notes": "Game Center redesign and refinements.",
+  "total_size": 4217344,
   "files": [
     {
       "path": "OmniPad.exe",
-      "url": "https://github.com/trixxware1/OmniPad-Releases/releases/download/v1.0.0/OmniPad.exe",
-      "sha256": "f3f235aa14bd359ffb7b7665eacab5bc436fa78222e6c5c46d1faef59b82b8c1",
-      "size": 4217856
+      "url": "https://github.com/trixxware1/OmniPad-Releases/releases/download/v1.0.1/OmniPad.exe",
+      "sha256": "c0d20c1d804112432db04467a0178890e5f9eee032d0b814c353925e5b1f6b83",
+      "size": 4217344
     }
   ],
-  "signature": "z0u4mVm5PfntYfl4jnT364zy8BsV4WO6Uh4iIVLGRwTd90/5J8oUf30e8vdwilM0lbLyswMbPxJ+ftuXwsbCCA==",
+  "signature": "AxqVQHr5kgU6oUtS3iDgi3YDK6JsewaQe1e3CjdX5ryerCIPJvGkgEEDx2HrD3kdB8qORrXeBcW+QnzTLG7XDg==",
   "mandatory": false
 }
