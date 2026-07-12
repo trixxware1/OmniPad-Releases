@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "channel": "stable",
+  "notes": "OmniPad 1.0.0.",
+  "total_size": 4217856,
+  "files": [
+    {
+      "path": "OmniPad.exe",
+      "url": "https://github.com/trixxware1/OmniPad-Releases/releases/download/v1.0.0/OmniPad.exe",
+      "sha256": "f3f235aa14bd359ffb7b7665eacab5bc436fa78222e6c5c46d1faef59b82b8c1",
+      "size": 4217856
+    }
+  ],
+  "signature": "z0u4mVm5PfntYfl4jnT364zy8BsV4WO6Uh4iIVLGRwTd90/5J8oUf30e8vdwilM0lbLyswMbPxJ+ftuXwsbCCA==",
+  "mandatory": false
+}
