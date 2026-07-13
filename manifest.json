@@ -1,16 +1,16 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "channel": "stable",
-  "notes": "Game Center redesign and refinements.",
-  "total_size": 4217344,
+  "notes": "Security hardening: secretless launcher handoff.",
+  "total_size": 4221952,
   "files": [
     {
       "path": "OmniPad.exe",
-      "url": "https://github.com/trixxware1/OmniPad-Releases/releases/download/v1.0.1/OmniPad.exe",
-      "sha256": "c0d20c1d804112432db04467a0178890e5f9eee032d0b814c353925e5b1f6b83",
-      "size": 4217344
+      "url": "https://github.com/trixxware1/OmniPad-Releases/releases/download/v1.0.2/OmniPad.exe",
+      "sha256": "4ed9dda67645131d3a6aaa39d69309da9534c49701c675c3bd6fbe91ead87ff5",
+      "size": 4221952
     }
   ],
-  "signature": "AxqVQHr5kgU6oUtS3iDgi3YDK6JsewaQe1e3CjdX5ryerCIPJvGkgEEDx2HrD3kdB8qORrXeBcW+QnzTLG7XDg==",
+  "signature": "uQkXWWbVcdm/0jVMmBzxJGmrpanmJCrYF1w+2zVVE7qB06YLM7OVCim7HGVO3LiIPnhMeoIFexKpBLvBnHa9DA==",
   "mandatory": false
 }
