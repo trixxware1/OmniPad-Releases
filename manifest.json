@@ -1,16 +1,16 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "channel": "stable",
-  "notes": "Security hardening: secretless launcher handoff.",
+  "notes": "Server-enforced licensing.",
   "total_size": 4221952,
   "files": [
     {
       "path": "OmniPad.exe",
-      "url": "https://github.com/trixxware1/OmniPad-Releases/releases/download/v1.0.2/OmniPad.exe",
-      "sha256": "4ed9dda67645131d3a6aaa39d69309da9534c49701c675c3bd6fbe91ead87ff5",
+      "url": "https://github.com/trixxware1/OmniPad-Releases/releases/download/v1.0.3/OmniPad.exe",
+      "sha256": "8acdf0e7972727da5e658089146c930f392b08be898fdcb152dd2d0f5cb37388",
       "size": 4221952
     }
   ],
-  "signature": "uQkXWWbVcdm/0jVMmBzxJGmrpanmJCrYF1w+2zVVE7qB06YLM7OVCim7HGVO3LiIPnhMeoIFexKpBLvBnHa9DA==",
-  "mandatory": false
+  "mandatory": false,
+  "signature": "G6h4pYN3Tt1/2B8NMMafxEL1PTHZbzLQDL4uaxP3MqxV3Ng/Q3f82MuA7Umxldh+lkSWyH0xddQOiCFjCtnqCQ=="
 }
