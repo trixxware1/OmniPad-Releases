@@ -1,16 +1,16 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "channel": "stable",
-  "notes": "Server-enforced licensing.",
-  "total_size": 4221952,
+  "notes": "Server-enforced licensing; hardened build.",
+  "total_size": 4232192,
   "files": [
     {
       "path": "OmniPad.exe",
-      "url": "https://github.com/trixxware1/OmniPad-Releases/releases/download/v1.0.3/OmniPad.exe",
-      "sha256": "8acdf0e7972727da5e658089146c930f392b08be898fdcb152dd2d0f5cb37388",
-      "size": 4221952
+      "url": "https://github.com/trixxware1/OmniPad-Releases/releases/download/v1.0.4/OmniPad.exe",
+      "sha256": "ec9b8f139e630d7aa125b35def96e688e6249e034593ac8513dd18bce618b6ef",
+      "size": 4232192
     }
   ],
   "mandatory": false,
-  "signature": "G6h4pYN3Tt1/2B8NMMafxEL1PTHZbzLQDL4uaxP3MqxV3Ng/Q3f82MuA7Umxldh+lkSWyH0xddQOiCFjCtnqCQ=="
+  "signature": "+zD8sIBbO6Dv+m85jf6/5/MwbMpGSZkeCTPR6mDamSt/aIsvutKgg7q4Ykvr6kStXmfd3OYjBvMu/4YPs/EkCQ=="
 }
